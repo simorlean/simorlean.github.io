@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://fedoseevsm.github.io"
+baseurl = "https://simorlean.github.io"
 languageCode = "ru-ru"
 title = "Семён Федосеев"
 
