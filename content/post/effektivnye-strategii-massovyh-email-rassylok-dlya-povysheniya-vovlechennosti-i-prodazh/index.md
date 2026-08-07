@@ -99,6 +99,7 @@ slug: "effektivnye-strategii-massovyh-email-rassylok-dlya-povysheniya-vovlechenn
 
 С уважением,
 Команда проекта
+```
 
 ## YouTube Shorts
 
